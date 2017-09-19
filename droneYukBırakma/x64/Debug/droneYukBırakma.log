@@ -1,0 +1,9 @@
+﻿  droneYukBırakma.cpp
+c:\users\acer\documents\visual studio 2015\projects\droneyukbırakma\droneyukbırakma\droneyukbırakma.cpp(29): warning C4101: 'sutun': unreferenced local variable
+c:\users\acer\documents\visual studio 2015\projects\droneyukbırakma\droneyukbırakma\droneyukbırakma.cpp(29): warning C4101: 'satir': unreferenced local variable
+c:\users\acer\documents\visual studio 2015\projects\droneyukbırakma\droneyukbırakma\droneyukbırakma.cpp(313): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acer\documents\visual studio 2015\projects\droneyukbırakma\droneyukbırakma\droneyukbırakma.cpp(314): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acer\documents\visual studio 2015\projects\droneyukbırakma\droneyukbırakma\droneyukbırakma.cpp(316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\acer\documents\visual studio 2015\projects\droneyukbırakma\droneyukbırakma\droneyukbırakma.cpp(323): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  droneYukBırakma.vcxproj -> C:\Users\Acer\Documents\Visual Studio 2015\Projects\droneYukBırakma\x64\Debug\droneYukBırakma.exe
+  droneYukBırakma.vcxproj -> C:\Users\Acer\Documents\Visual Studio 2015\Projects\droneYukBırakma\x64\Debug\droneYukBırakma.pdb (Full PDB)
